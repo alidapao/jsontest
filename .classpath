@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/workspace1/JavaProjectTest/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/workspace1/JavaProjectTest/lib/mysql-connector-java-5.1.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/workspace1/JavaProjectTest/lib/netty-all-4.0.56.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/workspace1/JavaProjectTest/lib/netty-all-4.0.56.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/workspace1/JavaProjectTest/lib/slf4j-api-1.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
